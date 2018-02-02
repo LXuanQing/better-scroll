@@ -1,0 +1,29 @@
+{
+  "name": "better-scroll",
+  "author": "lxq",
+  "version": "1.0.0",
+  "description": "An awesome project",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "start": "set NODE_ENV=development && nowa server",
+    "build": "nowa build"
+  },
+  "homepage": "",
+  "license": "MIT",
+  "dependencies": {
+    "better-scroll": "^1.7.2",
+    "classnames": "~2.1.2",
+    "natty-fetch": "~2.4.2",
+    "natty-storage": "~2.0.2",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-transition-group": "^2.2.1",
+    "refast": "~1.2.3",
+    "saltui": "^3.1.17"
+  },
+  "devDependencies": {
+    "babel-plugin-import": "^1.6.2"
+  }
+}
